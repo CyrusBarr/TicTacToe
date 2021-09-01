@@ -1,3 +1,2 @@
 # TicTacToe
-A game of TIcTacToe
-Using Java
+A game of TIcTacToe using Java
